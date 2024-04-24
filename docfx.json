@@ -1,11 +1,8 @@
 {
   "build": {
-    "content": [
-    ],
-    "resource": [
-    ],
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "kimberleybrown/test-powershell",
-    },
+    "content": [],
+    "resource": [],
+    "feedback_system": "GitHub",
+    "feedback_github_repo": "kimberleybrown/test-powershell"
   }
 }
